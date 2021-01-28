@@ -1,15 +1,15 @@
 import './App.css';
 // import Mood from './Components/Mood';
 // import DayToNight from './Components/DayToNight';
-import Faq from './Components/Faq';
+import Counter from './Components/Counter';
 
 function App() {
   return (
     <>
    {/*  <Mood /> */}
   {/*  <DayToNight /> */}
-  
-   <Faq />
+
+   <Counter />
     </>
   );
 }
