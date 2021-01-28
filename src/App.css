@@ -14,3 +14,21 @@ color: aliceblue;
 font-size: 20px;
 
 }
+
+
+.day, .day button {
+  background: #fff;
+  color: #000
+}
+.night, .night button {
+  background: #000;
+  color: #fff
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
