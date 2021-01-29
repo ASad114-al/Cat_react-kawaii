@@ -8,6 +8,6 @@ https://gallant-poincare-7240ab.netlify.app
 
 
 
-create netlify form und habe ich ein email oder slack ein message
+<!-- create netlify form und habe ich ein email oder slack ein message
 index.html
-form components
+form components -->
