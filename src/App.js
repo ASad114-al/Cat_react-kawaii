@@ -1,7 +1,8 @@
 import './App.css';
 // import Mood from './Components/Mood';
 // import DayToNight from './Components/DayToNight';
-import Counter from './Components/Counter';
+// import Counter from './Components/Counter';
+import Form from './Components/Form';
 
 function App() {
   return (
@@ -9,7 +10,8 @@ function App() {
    {/*  <Mood /> */}
   {/*  <DayToNight /> */}
 
-   <Counter />
+  {/*  <Counter /> */}
+  <Form />
     </>
   );
 }
