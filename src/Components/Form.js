@@ -1,7 +1,7 @@
 
 const Form = () => {
     return (  
-        <form name='contact v1' method='post' action='/'>
+        <form name='contact v1' method='post' action='/thanks'>
 
             <input type="hidden" name='form-name' value='contact v1'/> <br/>
             <input type="text" name='first-name'  placeholder='first-name'/> <br/>
