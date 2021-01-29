@@ -1,4 +1,4 @@
-#cat{
+/* #cat{
   display: flex;
   justify-content: center;
   align-items: center;
@@ -38,9 +38,7 @@ font-size: 20px;
   border: 2px solid black;
   margin-left: 25%;
   margin-top: 10%;
-/*   display: flex;
-  justify-content: center;
-  align-items: center; */
+
 
 }
 #box h1,#counter h1{
@@ -62,7 +60,6 @@ font-size: 20px;
   border: 1px solid black;
   margin-top: 20%;
   margin-left: 25%;
-  background: rgb(170, 89, 89);
 
 }
  #counter button{
@@ -97,4 +94,7 @@ font-size: 20px;
    margin-left: 40%;
    color: #fff;
  }
- 
+  */
+
+
+  
